@@ -1,0 +1,14 @@
+file '1.RAMNATHKOVIND.jpg.jpg'
+duration 1
+file 'download.jpg.jpg'
+duration 1
+file 'download2.jpg.jpg'
+duration 1
+file 'images1.jpg.jpg'
+duration 1
+file 'images2.jpg.jpg'
+duration 1
+file 'images3.jpg.jpg'
+duration 1
+file 'images4.jpg.jpg'
+duration 1
