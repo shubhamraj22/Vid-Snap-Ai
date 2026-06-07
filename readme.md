@@ -64,7 +64,7 @@ To run the application, follow these steps:
 1. **Clone the Repository**: Clone the repository from GitHub using `git clone`.
 2. **Install Dependencies**: Install dependencies using `pip install -r requirements.txt`.
 3. **Create a Database**: Create a database using `flask db init`.
-4. **Run the Application**: Run the application using `flask run`.
+4. **Run the Application**: Run the application using `run.py`.
 5. **Access the Application**: Access the application by navigating to `http://localhost:5000` in your web browser.
 
 To deploy the application, follow these steps:
